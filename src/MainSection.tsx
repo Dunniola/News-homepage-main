@@ -1,10 +1,9 @@
-import React from 'react'
+
  import  GamingGrowth  from './assets/images/image-web-3-desktop.jpg'
 import './App.css'
 import Retro  from "./assets/images/image-retro-pcs.jpg";
 import  Laptops  from "./assets/images/image-top-laptops.jpg";
 import  Gaming  from "./assets/images/image-gaming-growth.jpg";
-
 
 
 function MainSection() {

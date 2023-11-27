@@ -11,7 +11,7 @@ function Navbar() {
   const handleClick = () => {
     
      setClick(!click)
-    
+    setOpen(false)
 
 
   }
