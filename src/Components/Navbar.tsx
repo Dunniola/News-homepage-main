@@ -34,7 +34,7 @@ function Navbar() {
         <div className='align'>
           <ul className={click ? 'nav-menu' : 'nav-active' }>
           <div className='close-tab' onClick={closeMenuTab}>
-          <img src={open ? iconClose  : ""} alt="" />
+          <img src={open ? ""  : iconClose} alt="" />
           </div>
           <li className="nav-links" onClick={closeMenuTab}>
           

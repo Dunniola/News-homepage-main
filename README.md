@@ -10,9 +10,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  
 - [Author](#author)
-
-
 
 ## Overview
 
@@ -23,18 +22,22 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Design Preview
-
-![Active state](./design/active-states.jpg)
-![Desktop design](./design/desktop-design.jpg)
-![Desktop preview](./design/desktop-preview.jpg)
-![Mobile design](./design/mobile-design.jpg)
-![Mobile menu](./design/mobile-menu.jpg)
+### Screenshot
+Active states
+![](./src/design/active-states.jpg)
+Desktop design
+![](./src/design/desktop-design.jpg)
+Desktop preview
+![](./src/design/desktop-preview.jpg)
+Desktop preview
+![](./src/design/mobile-design.jpg)
+Mobile menu
+![](./src/design/mobile-menu.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Demo](https://github.com/Dunniola/News-homepage-main.git)
+- Live Site URL: [Github App](https://your-live-site-url.com)
 
 ## My process
 
@@ -48,8 +51,11 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 
+
+
 ## Author
 
 - Website - [Dunniola](https://www.your-site.com)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
+
