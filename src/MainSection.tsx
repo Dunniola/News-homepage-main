@@ -14,6 +14,7 @@ function MainSection() {
     <section>
 
     <div>
+    
         <div>
         
             <img src={GamingGrowth} alt=""  className='Home'/>

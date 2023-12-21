@@ -38,6 +38,7 @@ body{
 .footer a{
     font-size: 0.7rem;
 }
+
 @media (max-width:960px){
     body{
         background-color:lightgray;
