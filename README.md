@@ -4,7 +4,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ## Table of contents
 
-- [Overview] (#overview)
+- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -37,7 +37,7 @@ Mobile menu
 ### Links
 
 - Solution URL: [View Demo](https://github.com/Dunniola/News-homepage-main.git)
-- Live Site URL: [Github App](https://your-live-site-url.com)
+- Live Site URL: [Github App](https://dunniola.github.io/News-homepage-main/)
 
 ## My process
 
@@ -55,7 +55,7 @@ Mobile menu
 
 ## Author
 
-- Website - [Dunniola](https://www.your-site.com)
+- Website - [Dunniola](https://dunniola.github.io/News-homepage-main/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
